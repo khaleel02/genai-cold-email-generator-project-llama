@@ -1,6 +1,6 @@
 🔍 Smart Portfolio Search using ChromaDB + Langchain + GroqCloud API
 This project demonstrates a simple but powerful natural language search system built using ChromaDB, Langchain, and the GroqCloud API. Instead of keyword-based matching, this system uses vector embeddings to return relevant results based on semantic similarity.
-<img width="1432" height="894" alt="img" src="https://github.com/user-attachments/assets/5dcb62e2-ca03-41be-a08c-d2223c614dca" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7e7bd2bf-9d7c-469b-a4e7-b38228f591a6" />
 
 🚀 Features
 ✅ Store documents (tech stacks, project info, etc.) as vector embeddings
